@@ -1,0 +1,76 @@
+{
+	"atomic_save": false,
+	"autosave": false,
+	"binary_file_patterns":
+	[
+		"generated/*",
+		"*.tbz2",
+		"*.gzip",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/Inspired GitHub Color Scheme/InspiredGitHub.tmTheme",
+	"command": "refresh_folder_list",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		"build",
+		"bin",
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Courier New",
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignore_inodes": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"SublimeClang",
+		"Vintage"
+	],
+	"keys":
+	[
+		"f5"
+	],
+	"save_on_focus_lost": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"update_check": false
+}
